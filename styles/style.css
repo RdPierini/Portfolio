@@ -170,6 +170,10 @@ gap: 32px;
         width: auto;
     }
 
+    .apresentacao__links{
+        padding-bottom: 10%;
+    }
+
     .apresentacao__imagem{
         width: 100%;
     }
